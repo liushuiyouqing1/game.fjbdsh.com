@@ -1,0 +1,71 @@
+[ 2018-02-20T00:11:42+08:00 ] 111.145.40.43 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000545s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.000095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001387s ]
+NOTIC: [8] Undefined index: uid /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 20 行.
+NOTIC: [8] Undefined index: token /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 23 行.
+NOTIC: [8] Undefined index: uid /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 33 行.
+NOTIC: [8] Undefined index: code /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 33 行.
+
+[ 2018-02-20T00:12:48+08:00 ] 121.51.32.144 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000476s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.000099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001233s ]
+NOTIC: [8] Undefined index: uid /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 20 行.
+NOTIC: [8] Undefined index: token /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 23 行.
+NOTIC: [8] Undefined index: uid /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 33 行.
+NOTIC: [8] Undefined index: code /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 33 行.
+
+[ 2018-02-20T00:15:39+08:00 ] 101.226.65.107 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000383s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000647s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.000163s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001514s ]
+NOTIC: [8] Undefined index: uid /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 20 行.
+NOTIC: [8] Undefined index: token /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 23 行.
+NOTIC: [8] Undefined index: uid /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 33 行.
+NOTIC: [8] Undefined index: code /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 33 行.
+
+[ 2018-02-20T02:34:48+08:00 ] 106.11.227.47 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000376s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.000093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001132s ]
+NOTIC: [8] Undefined index: uid /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 20 行.
+NOTIC: [8] Undefined index: token /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 23 行.
+NOTIC: [8] Undefined index: uid /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 33 行.
+NOTIC: [8] Undefined index: code /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 33 行.
+
+[ 2018-02-20T13:27:24+08:00 ] 207.46.13.10 /
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000377s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.000093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001145s ]
+NOTIC: [8] Undefined index: uid /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 20 行.
+NOTIC: [8] Undefined index: token /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 23 行.
+NOTIC: [8] Undefined index: uid /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 33 行.
+NOTIC: [8] Undefined index: code /alidata/www/new_h5game/application/Common/Controller/HomebaseController.class.php 第 33 行.
+
+[ 2018-02-20T16:05:19+08:00 ] 140.205.225.206 /index.php?m=member&c=index&a=register&siteid=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000445s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.000114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001324s ]
+ERR: 无法加载控制器:Member
+
+[ 2018-02-20T16:07:46+08:00 ] 140.205.225.206 /index.php?m=wap&a=index&siteid=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000532s ]
+INFO: Run Common\Behavior\UrldecodeGetBehavior [ RunTime:0.000166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001339s ]
+ERR: 无法加载控制器:Wap
+

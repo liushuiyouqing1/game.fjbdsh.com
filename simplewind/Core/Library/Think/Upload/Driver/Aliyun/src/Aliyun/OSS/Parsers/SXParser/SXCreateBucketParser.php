@@ -1,0 +1,14 @@
+<?php
+namespace Aliyun\OSS\Parsers\SXParser;
+
+use Aliyun\Common\Communication\HttpResponse;
+use Aliyun\OSS\Models\Bucket;
+use Aliyun\OSS\Models\OSSOptions;
+
+class SXCreateBucketParser extends SXParser
+{
+	public function parse(HttpResponse $response, $options)
+	{
+		return new Bucket($options[OSSOptions::BUCKET]);
+	}
+}
